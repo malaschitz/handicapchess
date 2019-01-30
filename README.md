@@ -1,5 +1,7 @@
 # handicapchess
 
+Random setup for hanidcaps in chess: https://malaschitz.github.io/handicapchess/dist/
+
 ## Project setup
 ```
 yarn install
